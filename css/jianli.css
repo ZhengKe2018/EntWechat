@@ -1,0 +1,62 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.header
+{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.header_title
+{
+	background-color: rgb(1,176,241);
+	border-radius:10px;
+	text-align: center;
+	line-height: 70px;
+}
+
+.content
+{
+	width: 100%;
+}
+
+.form-group{
+	margin-bottom:5px;
+}
+h3
+{
+	padding: 0;
+	margin: 0 0 0 3px;
+	color: rgb(1,176,241);
+}
+
+.nav_one
+{
+	background-color: rgb(1,176,241);
+	width: 100px;
+	height: 2px;
+	float: left;
+}
+
+.nav_two
+{
+	background-color: rgb(228,228,228);
+	height: 2px;
+}
+
+table.table th
+{
+	width: 25%;
+}
+
+table.table input
+{
+	width: 100%;
+    padding:1px 3px 1px 3px; 
+    margin:0px; 
+    border:none;                /* 输入框不要边框 */ 
+    font-family:Arial; 
+}
